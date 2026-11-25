@@ -1,0 +1,2 @@
+# GIS-and-Machine-Learning-Approach-for-Solar-Photovoltaic-Site-Selection-in-Pakistan
+GIS and machine learning framework for solar photovoltaic (PV) site selection in the Cholistan Desert, Pakistan. The repository provides the implementation and supporting resources for integrating geospatial data, Random Forest, XGBoost, MLP, and SHAP-based explainable AI for renewable energy site suitability analysis.
