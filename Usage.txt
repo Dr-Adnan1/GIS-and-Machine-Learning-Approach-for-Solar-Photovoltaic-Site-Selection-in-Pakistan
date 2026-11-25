@@ -1,0 +1,2 @@
+bash
+python -m scripts.run_pipeline

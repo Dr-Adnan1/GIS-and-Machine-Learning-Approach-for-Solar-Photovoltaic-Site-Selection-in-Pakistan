@@ -1,0 +1,32 @@
+Repository Structure
+
+├── data/
+│   ├── README.md
+│   ├── sample/
+│   └── processed/
+│
+├── notebooks/
+│   ├── 01_Data_Preparation.ipynb
+│   ├── 02_Exploratory_Data_Analysis.ipynb
+│   ├── 03_Random_Forest.ipynb
+│   ├── 04_XGBoost.ipynb
+│   ├── 05_MLP.ipynb
+│   ├── 06_SHAP_Analysis.ipynb
+│   └── 07_Suitability_Mapping.ipynb
+│
+├── src/
+│   ├── data_preprocessing.py
+│   ├── feature_extraction.py
+│   ├── random_forest_model.py
+│   ├── xgboost_model.py
+│   ├── mlp_model.py
+│   ├── shap_analysis.py
+│   └── suitability_mapping.py
+│
+├── scripts/
+├── outputs/
+├── docs/
+├── requirements.txt
+├── CITATION.cff
+├── LICENSE
+└── README.md

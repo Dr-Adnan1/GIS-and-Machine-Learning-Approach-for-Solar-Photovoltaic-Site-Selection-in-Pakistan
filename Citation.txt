@@ -1,0 +1,13 @@
+bibtex
+@article{ashraf2025solar,
+  title   = {Geographic Information System and Machine Learning Approach for
+             Solar Photovoltaic Site Selection: A Case Study in Pakistan},
+  author  = {Ashraf, Hafiz Adnan and Li, Jiajun and Li, Zeyu and Sohail, Azam
+             and Ahmed, Raza and Butt, Muhammad Hamza and Ullah, Hameed},
+  journal = {Processes},
+  volume  = {13},
+  number  = {4},
+  pages   = {981},
+  year    = {2025},
+  doi     = {10.3390/pr13040981}
+}
